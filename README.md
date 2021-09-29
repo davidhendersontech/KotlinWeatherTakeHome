@@ -19,4 +19,4 @@ My javascript background helped me a lot with this project. Javascript taught me
 
 ### Contact
 ----------------
-Have any questions? You can reach me at [email] 
+Have any questions? You can reach me at <me@davidhenderson.tech>
