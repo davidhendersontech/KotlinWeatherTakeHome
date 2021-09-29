@@ -11,10 +11,12 @@ This app uses weather.gov for weather data, runs on kotlin and android, and util
 
 ## Personal Thoughts
 ---------------
-Before getting started on this app, I had zero experience with kotlin or android devolopment. I used the google android devolopers course as a crash course for kotlin devolopment. This application was made in 6 hours and the kotlin courses took me a week.
+Before getting started on this app, I had zero experience with Kotlin. I used the [Google Android Developers](https://developer.android.com/courses) course as my crash course for android development. I completed the application in 6 hours, and the Google courses took me a week.
+Coming from Javascript, I struggled with using the retrofit library to grab and parse JSON data. Unlike Javascript, Kotlin requires several more steps to grab and parse web data.
+ 
+My javascript background helped me a lot with this project. Javascript taught me basic programming logic and ways of thinking. While learning Kotlin, I could apply my javascript knowledge and focus on the differences in how the two languages operate. This comparison allowed me to identify and understand the ins and outs of android development. Creating layouts through XML and the design editor is almost second nature now. I recommend this project for anyone who wants to begin their Kotlin android devolopment journey.
 
-Coming from javascript I struggled with using the retrofit library to grab and parse json data. There are many more steps required to reach the desired outcome but building this app has taught me how to reach that outcome using kotlin.
 
-Since I had no experience with android devolopment, this app also allowed me to familiarize myself with android studio and the tools that come with. Creating layouts through xml and the design editor is almost second nature now.
-
-My javascript background helped me a lot with this project. Whenever I was first learning javascript basic programming logic and ways of thinking were new to me, but while learning kotlin I could apply my javascript knowledge and focus on the differences in the ways the two languages operate. This resulted in me being able to identify and understand the ins and outs of android devolopment. 
+### Contact
+----------------
+Have any questions? You can reach me at [email] 
